@@ -31,6 +31,12 @@ How should a multi-source authoring workflow separate constant offset, drift, te
 ### 3. Pause/resume reliability
 What repeatable test protocol could reveal whether playback or visual timing changes after pausing and resuming? Suggest baseline comparisons, repeated trials, useful observations, and acceptance criteria. Do not assume we already know the cause.
 
+## Start here
+
+- [Verify the synthetic local timing fixture](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/4): a small independent check, no Rocksmith or private access needed.
+- [Results template](RESULTS_TEMPLATE.md): reproducible steps, controls, uncertainty and disclosure.
+- [Tried and still open](TRIED_AND_OPEN.md): limited observations, confounds and validation gaps.
+
 ## How to join in
 
 Open an issue with:
