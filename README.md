@@ -10,6 +10,16 @@ There are playable, user-tested arrangements. Camera behaviour, timing, and paus
 
 We want to compare ideas, test hypotheses, and learn in the open without sharing private project files or copyrighted song material.
 
+## Three starter challenges
+
+These are **text-only briefs**, not ready-to-run benchmarks. No audio snippets or downloadable test assets have been published, and no benchmark result is claimed.
+
+1. [Minimal high-fret camera test — candidate specification](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/1)
+2. [My Happiness-inspired guitar-tone matching — method challenge](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/2)
+3. [Space Cadet-inspired local timing comparison — test design](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/3)
+
+Request participation or propose a method in the relevant issue. Small test fixtures are planned for public sharing only after preparation, rights review and validation. Full songs, finished charts and working project files are not offered. Public material is readable and copyable; participation does not grant write access.
+
 ## Three open questions
 
 ### 1. Camera behaviour and arrangement metadata
