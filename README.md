@@ -12,13 +12,13 @@ We want to compare ideas, test hypotheses, and learn in the open without sharing
 
 ## Three starter challenges
 
-These are **text-only briefs**, not ready-to-run benchmarks. No audio snippets or downloadable test assets have been published, and no benchmark result is claimed.
+**[Synthetic test inputs v0.1 are available](https://github.com/seantheholy101-glitch/chartbot-collaboration/releases/tag/v0.1-synthetic-inputs)** as an attached ZIP. These are source inputs, not playable charts or a validated benchmark. The high-fret fixture is an unconverted phrase CSV plus metronome; engine/camera validation is pending. The local-timing fixture has 10 synthetic scheduled events and a deliberately 80 ms-late second half. It is not a Space Cadet excerpt or validation of that song. Tone audio remains pending. No benchmark or perceptual-quality result is claimed.
 
 1. [Minimal high-fret camera test — candidate specification](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/1)
 2. [My Happiness-inspired guitar-tone matching — method challenge](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/2)
 3. [Space Cadet-inspired local timing comparison — test design](https://github.com/seantheholy101-glitch/chartbot-collaboration/issues/3)
 
-Request participation or propose a method in the relevant issue. Small test fixtures are planned for public sharing only after preparation, rights review and validation. Full songs, finished charts and working project files are not offered. Public material is readable and copyable; participation does not grant write access.
+Request participation or propose a method in the relevant issue. The release contains only short original synthetic material; see its README and explicit validation limits. Full songs, finished charts and working project files are not offered. Public material is readable and copyable; participation does not grant write access.
 
 ## Three open questions
 
